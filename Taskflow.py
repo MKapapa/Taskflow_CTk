@@ -16,7 +16,7 @@ customtkinter.set_appearance_mode("light")
 customtkinter.set_default_color_theme("midnight.json")
 
 
-taskList = ["Rake leaves", "Eat hot dog", "Bathe Dog", "Work on app", "Make this"]
+taskList = ["Rake leaves", "Eat hot dog", "Take out Dog", "Work on app", "Make this"]
 
 
 #Import Logo
